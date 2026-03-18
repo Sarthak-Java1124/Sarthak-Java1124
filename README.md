@@ -90,7 +90,7 @@ Backend & Web3 Protocol Engineer specializing in scalable systems, smart contrac
       <td>
         <a href="https://github.com/Sarthak-Java1124/pledgeFund-Contract" target="_blank">
           <div align="center">
-            <img src="https://raw.githubusercontent.com/github/explore/main/topics/ethereum/ethereum.png" width="70"/>
+            <img src="pledgeFunds.png" width="70"/>
             <p>Pledge Fund<br/>DeFi</p>
           </div>
         </a>
