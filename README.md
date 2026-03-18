@@ -157,8 +157,8 @@ Backend & Web3 Protocol Engineer specializing in scalable systems, smart contrac
         <div align="center">
           <img src="backend2.png" width="80px" height="80px"/>
           <p align="center">
-            APIs / WebSockets<br/>
-            Scalable Systems
+            
+          
           </p>
         </div>
       </td>
@@ -166,8 +166,7 @@ Backend & Web3 Protocol Engineer specializing in scalable systems, smart contrac
         <div align="center">
           <img src="backend3.png" width="80px" height="80px"/>
           <p align="center">
-            Realtime Systems<br/>
-            High Performance
+         =
           </p>
         </div>
       </td>
