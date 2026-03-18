@@ -125,7 +125,7 @@ Backend & Web3 Protocol Engineer specializing in scalable systems, smart contrac
       <td>
         <a href="https://github.com/Sarthak-Java1124/goLang-powBlockchain" target="_blank">
           <div align="center">
-            <img src="https://raw.githubusercontent.com/github/explore/main/topics/blockchain/blockchain.png" width="80"/>
+            <img src="powG0.png" width="80"/>
             <p>PoW Blockchain<br/>Go</p>
           </div>
         </a>
@@ -157,7 +157,7 @@ Backend & Web3 Protocol Engineer specializing in scalable systems, smart contrac
       <td>
         <a href="https://github.com/Sarthak-Java1124/go-W3insBackend" target="_blank">
           <div align="center">
-            <img src="https://raw.githubusercontent.com/github/explore/main/topics/web3/web3.png" width="80"/>
+            <img src="w3ins.png" width="80"/>
             <p>W3ins<br/>Backend</p>
           </div>
         </a>
