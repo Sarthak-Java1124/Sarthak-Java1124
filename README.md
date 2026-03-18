@@ -82,7 +82,7 @@ Backend & Web3 Protocol Engineer specializing in scalable systems, smart contrac
       <td>
         <a href="https://github.com/Sarthak-Java1124/W3ins" target="_blank">
           <div align="center">
-            <img src="https://raw.githubusercontent.com/github/explore/main/topics/web3/web3.png" width="70"/>
+            <img src="w3ins.png" width="70"/>
             <p>W3ins<br/>Protocol</p>
           </div>
         </a>
