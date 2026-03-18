@@ -141,17 +141,15 @@ Backend & Web3 Protocol Engineer specializing in scalable systems, smart contrac
       <td>
         <a href="https://github.com/Sarthak-Java1124/websocket-TypingTest" target="_blank">
           <div align="center">
-            <img src="https://raw.githubusercontent.com/github/explore/main/topics/websocket/websocket.png" width="80"/>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="80"/>
             <p>Realtime<br/>WebSockets</p>
           </div>
         </a>
       </td>
-    </tr>
-    <tr>
       <td>
         <a href="https://github.com/Sarthak-Java1124/go-SkillLink" target="_blank">
           <div align="center">
-            <img src="https://raw.githubusercontent.com/github/explore/main/topics/api/api.png" width="80"/>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="80"/>
             <p>SkillLink<br/>API</p>
           </div>
         </a>
@@ -199,8 +197,6 @@ Backend & Web3 Protocol Engineer specializing in scalable systems, smart contrac
           </div>
         </a>
       </td>
-    </tr>
-    <tr>
       <td>
         <a href="https://github.com/Sarthak-Java1124/cronos-402" target="_blank">
           <div align="center">
@@ -212,7 +208,7 @@ Backend & Web3 Protocol Engineer specializing in scalable systems, smart contrac
       <td>
         <a href="https://github.com/Sarthak-Java1124/webMate-SaaS" target="_blank">
           <div align="center">
-            <img src="https://raw.githubusercontent.com/github/explore/main/topics/saas/saas.png" width="80"/>
+            <img src="https://skillicons.dev/icons?i=nextjs" width="80"/>
             <p>WebMate<br/>SaaS</p>
           </div>
         </a>
