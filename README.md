@@ -42,7 +42,6 @@ Backend & Web3 Protocol Engineer specializing in scalable systems, smart contrac
 ![Rust](https://img.shields.io/badge/Language-Rust-informational?style=flat&logo=rust&color=3C3C3D)
 ![Anchor](https://img.shields.io/badge/Framework-Anchor-informational?style=flat&logo=solana&color=3C3C3D)
 ![Ethereum](https://img.shields.io/badge/Dev-Ethereum-informational?style=flat&logo=ethereum&color=3C3C3D)
-![ERC-20](https://img.shields.io/badge/Standard-ERC--20-informational?style=flat&logo=ethereum&color=3C3C3D)
 
 ###
 
@@ -57,6 +56,7 @@ Backend & Web3 Protocol Engineer specializing in scalable systems, smart contrac
 ---
 
 ## My Hackathon Winning Project 🏆
+
 <div align="center">
   <table>
     <tr>
@@ -64,10 +64,103 @@ Backend & Web3 Protocol Engineer specializing in scalable systems, smart contrac
         <a href="https://github.com/Sarthak-Java1124/crypto-llm" target="_blank">
           <div align="center">
             <img src="https://raw.githubusercontent.com/github/explore/main/topics/blockchain/blockchain.png" width="120"/>
-            <p>
-              Crypto LLM<br/>
-              AI + Web3
-            </p>
+            <p>Crypto LLM<br/>AI + Web3</p>
+          </div>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## Smart Contract Development
+
+<div align="left">
+  <table>
+    <tr>
+      <td>
+        <a href="https://github.com/Sarthak-Java1124/W3ins" target="_blank">
+          <div align="center">
+            <img src="https://raw.githubusercontent.com/github/explore/main/topics/web3/web3.png" width="70"/>
+            <p>W3ins<br/>Protocol</p>
+          </div>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Sarthak-Java1124/pledgeFund-Contract" target="_blank">
+          <div align="center">
+            <img src="https://raw.githubusercontent.com/github/explore/main/topics/ethereum/ethereum.png" width="70"/>
+            <p>Pledge Fund<br/>DeFi</p>
+          </div>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Sarthak-Java1124/Anonimity-Contracts" target="_blank">
+          <div align="center">
+            <img src="https://raw.githubusercontent.com/github/explore/main/topics/security/security.png" width="70"/>
+            <p>Anonymity<br/>Privacy</p>
+          </div>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Sarthak-Java1124/nft-minting-contract" target="_blank">
+          <div align="center">
+            <img src="https://raw.githubusercontent.com/github/explore/main/topics/nft/nft.png" width="70"/>
+            <p>NFT Minting<br/>ERC-721</p>
+          </div>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## Backend Development
+
+<div align="left">
+  <table>
+    <tr>
+      <td>
+        <a href="https://github.com/Sarthak-Java1124/goLang-powBlockchain" target="_blank">
+          <div align="center">
+            <img src="https://raw.githubusercontent.com/github/explore/main/topics/blockchain/blockchain.png" width="80"/>
+            <p>PoW Blockchain<br/>Go</p>
+          </div>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Sarthak-Java1124/golang-gRPC" target="_blank">
+          <div align="center">
+            <img src="https://raw.githubusercontent.com/github/explore/main/topics/grpc/grpc.png" width="80"/>
+            <p>gRPC<br/>Microservices</p>
+          </div>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Sarthak-Java1124/websocket-TypingTest" target="_blank">
+          <div align="center">
+            <img src="https://raw.githubusercontent.com/github/explore/main/topics/websocket/websocket.png" width="80"/>
+            <p>Realtime<br/>WebSockets</p>
+          </div>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/Sarthak-Java1124/go-SkillLink" target="_blank">
+          <div align="center">
+            <img src="https://raw.githubusercontent.com/github/explore/main/topics/api/api.png" width="80"/>
+            <p>SkillLink<br/>API</p>
+          </div>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Sarthak-Java1124/go-W3insBackend" target="_blank">
+          <div align="center">
+            <img src="https://raw.githubusercontent.com/github/explore/main/topics/web3/web3.png" width="80"/>
+            <p>W3ins<br/>Backend</p>
           </div>
         </a>
       </td>
@@ -90,7 +183,6 @@ Backend & Web3 Protocol Engineer specializing in scalable systems, smart contrac
           </div>
         </a>
       </td>
-
       <td>
         <a href="https://github.com/Sarthak-Java1124/GTA-VI" target="_blank">
           <div align="center">
@@ -99,7 +191,6 @@ Backend & Web3 Protocol Engineer specializing in scalable systems, smart contrac
           </div>
         </a>
       </td>
-
       <td>
         <a href="https://github.com/Sarthak-Java1124/Pixel-Bonk" target="_blank">
           <div align="center">
@@ -109,7 +200,6 @@ Backend & Web3 Protocol Engineer specializing in scalable systems, smart contrac
         </a>
       </td>
     </tr>
-
     <tr>
       <td>
         <a href="https://github.com/Sarthak-Java1124/cronos-402" target="_blank">
@@ -119,7 +209,6 @@ Backend & Web3 Protocol Engineer specializing in scalable systems, smart contrac
           </div>
         </a>
       </td>
-
       <td>
         <a href="https://github.com/Sarthak-Java1124/webMate-SaaS" target="_blank">
           <div align="center">
