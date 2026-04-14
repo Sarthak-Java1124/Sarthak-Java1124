@@ -193,7 +193,7 @@ Backend & Web3 Protocol Engineer specializing in scalable systems, smart contrac
         <a href="https://github.com/Sarthak-Java1124/Pixel-Bonk" target="_blank">
           <div align="center">
             <img src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" width="80"/>
-            <p>Pixel Bonk<br/>UI</p>
+            <p>Pixel Bonks<br/>UI</p>
           </div>
         </a>
       </td>
