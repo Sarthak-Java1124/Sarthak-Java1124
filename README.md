@@ -220,7 +220,7 @@ Backend & Web3 Protocol Engineer specializing in scalable systems, smart contrac
 ---
 
 <div align="left">
-  <img src="https://streak-stats.demolab.com?user=Sarthak-Java1124&theme=dracula&v=2" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=Sarthak-Java1124&theme=dracula&v=3" height="150"/>
 </div>
 
 ---
